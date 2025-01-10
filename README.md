@@ -1,7 +1,7 @@
 # Froglike
 MHCC TLC School Project
 
-## Project Team:
+# Project Team:
 Owen Dellasega
 Jaden Steinke
 Alexandar Marsh
